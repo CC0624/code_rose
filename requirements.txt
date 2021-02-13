@@ -1,0 +1,6 @@
+################  Requirements for code rose  ######################
+
+numpy
+opencv-python
+pillow
+
